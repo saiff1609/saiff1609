@@ -56,13 +56,13 @@ _Containerized deployment of Mattermost on AWS_
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:saiffarooqui169@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/saif-farooqui-50330526b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/saiff1609">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
