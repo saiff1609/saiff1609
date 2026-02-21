@@ -1,5 +1,4 @@
 <h1 align="center"> Cloud | DevOps | Architecture </h1>
-
 <p align="center">
   <i>Pursuing clarity in architecture, advancing proficiency in the cloud domain while exploring the broader dynamics of modern infrastructure.</i>
 </p>
@@ -44,6 +43,15 @@ _Containerized deployment of Mattermost on AWS_
 - Implemented **high availability** with **ALB + ASG**  
 - Added **monitoring and alerts** via **CloudWatch + SNS**  
 - Hardened infrastructure with **IAM security policies** and **S3 backups**  
+
+---
+
+## 🔧 Currently Building
+
+### Infisical on AWS — Production-Grade SaaS Deployment
+_Deploying a self-hosted open-source secrets manager on AWS — containerized, fully automated with IaC and CI/CD_
+
+`ECS` · `ECR` · `Docker` · `RDS` · `ElastiCache` · `ALB` · `Terraform` · `GitHub Actions` · `Secrets Manager`
 
 ---
 
